@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PMY Tasker</string>
+    <string name="facebook_app_id">563111864179163</string>
+    <string name="fb_login_protocol_scheme">fb563111864179163</string>
+
+    <string name="API_URL">https://stormy-beach-62774.herokuapp.com/api</string>
+    <string name="CLIENT_ID">mBG6k1MrPIT1aMfAMHzfL09Jy2cISDsIa38A2j6X</string>
+    <string name="CLIENT_SECRET">YnFdjH321FiB3bXTlQ8n0slncnJynmbduYleY7ceV3IvL1UG0spt9r0wSe0YrhOwFlz5Uxv9ZSk6m30tFhFQM7rlrDpAEcUf0a2xWIEpGwlG6q3BsMyfV4GDpC7DN6YJ</string>
+    <string name="title_activity_customer_main">CustomerMainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
